@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusubhash28&label=Profile%20views&color=0e75b6&style=flat" alt="kavindusubhash28" /> </p>
 
 
-- 🔭 I’m currently working on **Good health and wellbeing website**
+- 🔭 I’m currently working on **Ai resume and job matcher project**
 
 - 🌱 I’m currently learning **Node JS, API, React JS**
 
