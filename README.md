@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusubhash28&label=Profile%20views&color=0e75b6&style=flat" alt="kavindusubhash28" /> </p>
 
 
-- 🔭 I’m currently working on **Ai resume and job matcher project**
+- 🔭 I’m currently working on **Library Management System - Java**
 
-- 🌱 I’m currently learning **Node JS, API, React JS**
+- 🌱 I’m currently learning **Node JS, API, React JS, SpringBoot**
 
 - 💬 Ask me about **HTML,CSS,JS,C,PYTHON,JAVA**
 
