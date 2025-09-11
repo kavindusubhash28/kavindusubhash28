@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Latest Portfolio**
 
-- 🌱 I’m currently learning **Node JS, API, React JS, SpringBoot**
+- 🌱 I’m currently learning **React, API, Java, SpringBoot**
 
 - 💬 Ask me about **HTML,CSS,JS,C,PYTHON,JAVA**
 
