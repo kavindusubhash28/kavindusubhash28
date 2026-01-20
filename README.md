@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **RAG System, API, Java, SpringBoot, Flutter**
 
-- 💬 Ask me about **HTML,CSS,JS,C,PYTHON,JAVA**
+- 💬 Ask me about **PYTHON,JAVA**
 
 - 📫 How to reach me **kavindurajapaksha11@gmail.com**
 
