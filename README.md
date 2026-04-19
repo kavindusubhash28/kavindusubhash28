@@ -4,7 +4,9 @@
 
 ### 💻 Computer Science Undergraduate | Sri Lanka 🇱🇰
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Progress;RAG+%7C+Spring+Boot+%7C+Flutter;Python+%26+Java+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&vCenter=true&width=520&lines=Computer+Science+Undergraduate;Aspiring+Full-Stack+%26+AI+Developer;Building+NexusCare+Mobile+App;Working+with+Flutter+%2B+APIs;RAG+Systems+%7C+AI+Projects;Java+%2C+Python+%2C+JavaScript;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=kavindusubhash28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
