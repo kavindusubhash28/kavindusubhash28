@@ -7,6 +7,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&vCenter=true&width=520&lines=Computer+Science+Undergraduate;Aspiring+Full-Stack+%26+AI+Developer;Building+NexusCare+Mobile+App;Working+with+Flutter+%2B+APIs;RAG+Systems+%7C+AI+Projects;Java+%2C+Python+%2C+JavaScript;Always+Learning+%F0%9F%9A%80" />
 </p>
+<div align="center">
+
+<a href="[https://www.kavindurajapaksha.me/]" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=kavindusubhash28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
