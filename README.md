@@ -9,8 +9,8 @@
 </p>
 <div align="center">
 
-<a href="[https://www.kavindurajapaksha.me/]" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://www.kavindurajapaksha.me/" target="_blank" style="text-decoration:none; font-size:20px; font-weight:bold;">
+🌐 Visit My Portfolio
 </a>
 
 </div>
