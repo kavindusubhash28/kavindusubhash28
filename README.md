@@ -25,9 +25,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building **NexusCare** — a smart mobile healthcare application
-- 🌱 Actively learning **RAG Systems · REST APIs · Java · Spring Boot · Flutter**
-- 🧠 Passionate about **AI/ML, Backend Development & Mobile Apps**
+- 🔭 Currently building Full-Stack and AI-powered projects.
+- 🌱 Learning Java, Spring Boot, React, System Design, and Cloud Technologies.
+- 🧠 Interested in Full-Stack Development, AI Applications, and Software Engineering.
 - 💬 Ask me anything about **Python** or **Java**
 - 📫 Reach me at **kavindurajapaksha11@gmail.com**
 - ⚡ Fun fact: I love turning complex problems into clean, simple solutions
