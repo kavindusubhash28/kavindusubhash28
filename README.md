@@ -15,6 +15,8 @@
   <a href="mailto:kavindurajapaksha11@gmail.com">Email</a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=kavindusubhash28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
