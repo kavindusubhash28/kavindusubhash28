@@ -1,118 +1,70 @@
 <div align="center">
 
-# Hi there, I'm Kavindu Subhash Rajapaksha 👋
+# Hi, I'm Kavindu Subhash Rajapaksha 👋
 
-### 💻 Computer Science Undergraduate | Sri Lanka 🇱🇰
+### Full-Stack Developer Intern @ Alchemy Solutions
+### Computer Science Undergraduate @ IIT Sri Lanka 🇱🇰
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&vCenter=true&width=520&lines=Computer+Science+Undergraduate;Aspiring+Full-Stack+%26+AI+Developer;Building+NexusCare+Mobile+App;Working+with+Flutter+%2B+APIs;RAG+Systems+%7C+AI+Projects;Java+%2C+Python+%2C+JavaScript;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
-<div align="center">
 
-<a href="https://www.kavindurajapaksha.me/" target="_blank" style="text-decoration:none; font-size:20px; font-weight:bold;">
-🌐 Visit My Portfolio
-</a>
-
-</div>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=kavindusubhash28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+  <a href="https://www.kavindurajapaksha.me">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/kavindu-rajapaksha-982943293">LinkedIn</a> •
+  <a href="mailto:kavindurajapaksha11@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently building Full-Stack and AI-powered projects.
-- 🌱 Learning Java, Spring Boot, React, System Design, and Cloud Technologies.
-- 🧠 Interested in Full-Stack Development, AI Applications, and Software Engineering.
-- 💬 Ask me anything about **Python** or **Java**
-- 📫 Reach me at **kavindurajapaksha11@gmail.com**
-- ⚡ Fun fact: I love turning complex problems into clean, simple solutions
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-rajapaksha-982943293)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kavindu__subhash)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindurajapaksha11@gmail.com)
-
-</div>
+- 💼 Full-Stack Developer Intern at **Alchemy Solutions**
+- 🎓 Computer Science Undergraduate at **Informatics Institute of Technology (IIT)**
+- 🚀 Passionate about Full-Stack Development, AI Applications, and Cloud Technologies
+- 🌱 Currently learning **Spring Boot, React, System Design, Docker, and AWS**
+- 💡 I enjoy building software that solves real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Frameworks**
+**Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-005C84?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Data & AI**
+**Tools**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Data Mining](https://img.shields.io/badge/Data_Mining-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-
-## 📊 GitHub Stats
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavindusubhash28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindusubhash28&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindusubhash28&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
-
----
-
----
-
-<div align="center">
-
-### 💡 *"Code is not just syntax — it's the language of ideas."*
+### 💬 *"Building software that creates real-world impact."*
 
 </div>
